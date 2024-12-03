@@ -19,3 +19,8 @@ function Counter() {
 }<button>Logout</button>
 
 export default Counter
+//basic terms of redux
+// state
+// action
+//reducer
+//store
