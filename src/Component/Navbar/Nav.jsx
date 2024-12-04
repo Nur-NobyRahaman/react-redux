@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux"
-import { logoutAction } from "../CountSevecis/LoginServies/LoginAction";
+import { logoutAction } from "../Login/LoginServies/LoginAction";
 
 function Nav() {
     const user = useSelector(state => state.loginReducer.user);

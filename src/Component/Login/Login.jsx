@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { loginAction } from "../CountSevecis/LoginServies/LoginAction";
+import { loginAction } from "./LoginServies/LoginAction";
 
 
 function Login() {
